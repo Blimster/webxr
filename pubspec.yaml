@@ -1,6 +1,6 @@
 name: webxr
 description: Dart bindings for WebXR APIs.
-version: 0.1.0
+version: 0.2.0
 repository: https://github.com/your-username/webxr
 
 environment:
